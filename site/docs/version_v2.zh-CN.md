@@ -2,6 +2,15 @@
 changelog: true
 ---
 
+## 2.66.16
+
+2026-07-14
+
+### 🐛 问题修复
+
+- 修复 `Table` 组件操作列左边线判断，帮忙边线缺失或者多余([#3193](https://github.com/arco-design/arco-design/pull/3193))
+- 修复 Trigger 在自定义容器中计算横向边界时，因弹层撑大容器宽度导致定位异常的问题。([#3192](https://github.com/arco-design/arco-design/pull/3192))
+
 ## 2.66.15
 
 2026-05-08

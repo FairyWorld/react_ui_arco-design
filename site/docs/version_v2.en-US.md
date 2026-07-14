@@ -2,6 +2,15 @@
 changelog: true
 ---
 
+## 2.66.16
+
+2026-07-14
+
+### 🐛 BugFix
+
+- Fix the left border logic of the action column to resolve missing or redundant border lines.([#3193](https://github.com/arco-design/arco-design/pull/3193))
+- Fix a Trigger positioning issue where horizontal bounds inside a custom container could be miscalculated because the popup itself inflated the container width.([#3192](https://github.com/arco-design/arco-design/pull/3192))
+
 ## 2.66.15
 
 2026-05-08

@@ -1,3 +1,11 @@
+## 2.66.16
+
+2026-07-14
+
+### 🐛 BugFix
+
+- Fix the left border logic of the action column to resolve missing or redundant border lines.([#3193](https://github.com/arco-design/arco-design/pull/3193))
+
 ## 2.66.14
 
 2026-04-16
